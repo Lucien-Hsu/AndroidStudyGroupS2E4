@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/LucienProgram/temp/DemoActivity/activity_to_activity/src/main/res/layout/activity_a.xml" value="0.36614583333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/activity_to_activity/src/main/res/layout/activity_b.xml" value="0.36614583333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/activity_with_fragment/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/activity_with_fragment/src/main/res/layout/fragment_blank.xml" value="0.36614583333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/activitylifecycle/src/main/res/layout/activity_aactivity.xml" value="0.36614583333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/activitylifecycle/src/main/res/layout/activity_bactivity.xml" value="0.36614583333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/app/src/main/res/layout/activity_b.xml" value="0.36614583333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/app/src/main/res/layout/activity_other.xml" value="0.20208333333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/app/src/main/res/layout/fragment_a.xml" value="0.1" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/app/src/main/res/layout/fragment_b.xml" value="0.36614583333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/demo1/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/demo1/src/main/res/layout/fragment_a.xml" value="0.36614583333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/demo1/src/main/res/layout/fragment_b.xml" value="0.36614583333333334" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/demo_navigation/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/demo_navigation/src/main/res/layout/fragment_x.xml" value="0.33559782608695654" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/demo_navigation/src/main/res/layout/fragment_y.xml" value="0.33559782608695654" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/programmaticallyaddafragment/src/main/res/layout/activity_main.xml" value="0.1671875" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/programmaticallyaddafragment/src/main/res/layout/fragment_a.xml" value="0.3220108695652174" />
+        <entry key="..\:/LucienProgram/temp/DemoActivity/programmaticallyaddafragment/src/main/res/layout/fragment_b.xml" value="0.3220108695652174" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
