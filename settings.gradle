@@ -7,7 +7,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "DemoActivity"
-include ':activity_with_fragment'
-include ':demo_navigation'
+include ':activitywithfragment'
+include ':demonavigation'
 include ':activitylifecycle'
 include ':programmaticallyaddafragment'

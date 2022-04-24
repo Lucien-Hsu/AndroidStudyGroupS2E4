@@ -10,9 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/activity_with_fragment" />
             <option value="$PROJECT_DIR$/activitylifecycle" />
-            <option value="$PROJECT_DIR$/demo_navigation" />
+            <option value="$PROJECT_DIR$/activitywithfragment" />
+            <option value="$PROJECT_DIR$/demonavigation" />
             <option value="$PROJECT_DIR$/programmaticallyaddafragment" />
           </set>
         </option>
